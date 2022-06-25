@@ -1,4 +1,4 @@
-# Requisicoes-web-simples
+# Coin-buyprice-inBRL
 ![GitHub](https://img.shields.io/github/license/oTalDoHud/ProjetoDashBoardVendas)
 
 # Sobre o projeto
